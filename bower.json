@@ -1,0 +1,17 @@
+{
+    "name": "codemirror-formatting",
+    "version": "1.0.0",
+    "main": ["./dist/formatting.js"],
+    "ignore": [
+        "**/.*",
+        "*.yml",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": ">= 1.9.0",
+        "codemirror": ">= 4.3.0"
+    }
+}
